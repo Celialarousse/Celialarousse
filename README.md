@@ -5,6 +5,6 @@
 -->
 Here are some ideas to get you started:
 
-Je suis étudiante a l'IUT du limousin a Limoge
+Je suis étudiante en BTS SIO au lycée BEAUPEYRAT à Limoges 
 J'apprend le python, le css, le html, le java, le sql et d'autre encore...
 
